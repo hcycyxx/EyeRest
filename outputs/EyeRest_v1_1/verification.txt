@@ -1,0 +1,16 @@
+PASS 20-minute reminder waits for consent
+PASS rest lasts at least 20 seconds
+PASS completion starts a fresh 20-minute cycle
+PASS pause does not expire
+PASS resume preserves remaining duration
+PASS snooze is five minutes
+PASS right docking hides main window
+PASS edge reveal restores main window
+PASS left docking uses working area
+PASS tray reminder returns to tray after completion
+PASS visible reminder awaits start
+PASS real timer completed 20-second countdown
+PASS rest completion restores action
+PASS pause button action
+PASS resume and snooze actions
+PASS isolated settings saved
