@@ -1,4 +1,8 @@
-# 远眺 · Windows 护眼提醒
+<div align="center">
+  <h1>远眺 · Windows 护眼提醒</h1>
+  <p><strong>定时休息、自定义时长，轻量常驻桌面。</strong></p>
+  <p><img alt="Windows" src="https://img.shields.io/badge/platform-Windows-0078D6"> <img alt="源码 V1.3" src="https://img.shields.io/badge/source-V1.3-B56C43"> <a href="https://github.com/hcycyxx/EyeRest/stargazers"><img alt="GitHub Stars" src="https://img.shields.io/github/stars/hcycyxx/EyeRest?color=3B77A1"></a></p>
+</div>
 
 轻量 Windows 桌面小工具：定时弹出悬浮窗，提醒看约6米外；休息倒计时由你点击开始。支持自定义提醒间隔、休息秒数、左右贴边隐藏和开机启动。
 
@@ -11,6 +15,12 @@
 - [查看版本下载页](https://github.com/hcycyxx/EyeRest/releases/tag/v1.3.0)
 
 EXE 也保留在仓库的 [outputs/EyeRest_v1_3](outputs/EyeRest_v1_3) 目录中；点击 EXE 文件后，使用 GitHub 文件页的下载按钮保存到电脑。
+
+## 效果预览
+
+![远眺 V1.1 提醒界面（历史截图）](docs/images/eyerest-v1.1-existing.png)
+
+以上为仓库已有的 **V1.1 历史截图**，不代表 V1.3 新增的绿色滚轮设置页。V1.3 截图待补；编译成功与实际运行验收分开记录。
 
 ## 安装与部署
 
@@ -102,3 +112,9 @@ V1.1曾通过基础计时、真实20秒倒计时、暂停、贴边和托盘返�
 首次使用可先设置“间隔1分钟、休息5秒”，检查提醒、倒计时、设置保存和动画，再换成日常时间。
 
 历史版本和对应源码保留在 `outputs` 下。
+
+## 版本记录与常见问题
+
+见 [更新日志](CHANGELOG.md)。没有出现主窗时先检查托盘；更新前先退出旧版。若系统缺少所需 .NET Framework，请先补齐系统组件。
+
+本仓库尚未声明独立的开源许可证，使用和再分发权限请先向作者确认。
