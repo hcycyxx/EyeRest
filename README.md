@@ -12,6 +12,7 @@
 
 - **[下载可直接运行的 EXE](https://github.com/hcycyxx/EyeRest/releases/download/v1.3.0/EyeRest_v1_3.exe)**
 - **[下载完整包：程序、源码和说明](https://github.com/hcycyxx/EyeRest/releases/download/v1.3.0/EyeRest_v1_3_bundle.zip)**
+- [下载新增源码文档快照（含 V1.3 EXE）](https://github.com/hcycyxx/EyeRest/releases/download/v1.3.0/EyeRest-v1.3-source-docs-20261109_v2.zip)
 - [查看版本下载页](https://github.com/hcycyxx/EyeRest/releases/tag/v1.3.0)
 
 EXE 也保留在仓库的 [outputs/EyeRest_v1_3](outputs/EyeRest_v1_3) 目录中；点击 EXE 文件后，使用 GitHub 文件页的下载按钮保存到电脑。
