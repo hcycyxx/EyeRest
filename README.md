@@ -118,4 +118,15 @@ V1.1曾通过基础计时、真实20秒倒计时、暂停、贴边和托盘返�
 
 见 [更新日志](CHANGELOG.md)。没有出现主窗时先检查托盘；更新前先退出旧版。若系统缺少所需 .NET Framework，请先补齐系统组件。
 
+<!-- jack-white-rice-support:start -->
+## 请大肥鱼吃大白饭 🍚
+
+如果这个项目帮到了你，欢迎请大肥鱼吃一碗大白饭。自愿投喂，量力而行，感谢支持！
+
+<p>
+  <a href="assets/support/alipay-jack-v1.jpg"><img src="assets/support/alipay-jack-v1.jpg" alt="Jack 的支付宝收款码：请大肥鱼吃大白饭" height="320"></a>
+  <a href="assets/support/rice-meme-v1.png"><img src="assets/support/rice-meme-v1.png" alt="大肥鱼端碗表情包：饭呢？" height="320"></a>
+</p>
+<!-- jack-white-rice-support:end -->
+
 本仓库尚未声明独立的开源许可证，使用和再分发权限请先向作者确认。
